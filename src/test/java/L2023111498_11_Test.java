@@ -1,5 +1,3 @@
-
-// 关键：确保 import 的是 jupiter.api
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -10,11 +8,10 @@ import java.util.List;
 
 /**
  * 针对 Solution11 (threeSum) 的测试类
- * 学号: [此处填写你的学号]
+ * 学号: [2023111498]
  */
 public class L2023111498_11_Test { // <-- 确保这个类名和你的文件名一致
 
-    // 实例化你要测试的类 (Solution11.java 里的类名是 Solution)
     private final Solution s = new Solution();
 
     /*
